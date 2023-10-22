@@ -21,3 +21,5 @@ export const AllCaps: Story = { args: { label: 'AllCaps Label', size: 'normal', 
 export const Secondary: Story = { args: { label: 'Secondary Label', size: 'normal', color: 'text-secondary' } };
 
 export const CustomColor: Story = { args: { label: 'CustomColor Label', size: 'normal', fontColor: '#5517ac' } };
+
+export const CustomBackgroundColor: Story = { args: { label: 'CustomColor Label', size: 'normal', fontColor: '#5517ac', backgroundColor: 'black' } };
